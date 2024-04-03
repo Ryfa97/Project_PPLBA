@@ -1,3 +1,9 @@
+![page 1](https://github.com/Ryfa97/Project_PPLBA/assets/124542014/66aa85b0-ee1c-44f3-a217-5d041495ee8c)
+![page 2](https://github.com/Ryfa97/Project_PPLBA/assets/124542014/5c74b626-c947-4a0e-afe6-558d1f192bd9)
+![page 3](https://github.com/Ryfa97/Project_PPLBA/assets/124542014/8f186078-b295-4e30-bfb4-6f722bec80fa)
+![page 4](https://github.com/Ryfa97/Project_PPLBA/assets/124542014/cd7f1d94-54da-4ae3-bd38-44e1f80641ad)
+![page 5](https://github.com/Ryfa97/Project_PPLBA/assets/124542014/7bdcdb4c-1680-42fa-9457-241f48e15ee7)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
